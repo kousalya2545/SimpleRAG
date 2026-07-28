@@ -13,13 +13,13 @@ users = [
     {
         "id" : 1,
         "name":"Alice",
-        "email":"kousalya@prodapt.com",
+        "email":"kousalya@gmail.com",
         "bio" : None 
     },
     {
         "id" : 2,
         "name":"Bob",
-        "email":"kousalya1@prodapt.com",
+        "email":"kousalya1@gmail.com",
         "bio" : "Life is fun with wires and laptops" 
     }
 ] 
